@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  reviewservice:
+    image: ${DOCKER_REGISTRY-}reviewservice
+    build:
+      context: .
+      dockerfile: ReviewService\Dockerfile

@@ -1,0 +1,13 @@
+﻿{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Shankar",
+    "classifications": [ "Common", "Console" ],
+    "identity": "ReviewService",
+    "name": "Example templates: Review based system",
+    "shortName": "ReviewService",
+    "sourceName": "ReviewService",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
